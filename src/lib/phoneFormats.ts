@@ -62,7 +62,7 @@ export const countries: CountryFormat[] = [
   },
   {
     name: "South Korea",
-    code: "kr",
+    code: "south-korea",
     formats: ["XXX-XXXX-XXXX"],
     example: "010-1234-5678"
   },
